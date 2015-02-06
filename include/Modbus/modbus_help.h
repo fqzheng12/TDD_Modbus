@@ -1,0 +1,23 @@
+#ifndef __MODBUS_HELP_H
+#define	__MODBUS_HELP_H
+
+#include <stdlib.h>
+#include <stdint.h>
+#include <memory.h>
+
+#define REGISTER_0000 &register_00
+#define REGISTER_0001 NULL
+#define REGISTER_0002 NULL
+#define REGISTER_0003 NULL
+#define REGISTER_0004 NULL
+#define REGISTER_0005 NULL
+#define REGISTER_0006 NULL
+#define REGISTER_0007 NULL
+#define REGISTER_0008 NULL
+#define REGISTER_0009 NULL
+#define REGISTER_000A NULL
+#define REGISTER_000B NULL
+#define REGISTER_000C NULL
+#define REGISTER_000D NULL
+#define REGISTER_000E NULL
+#define REGISTER_000F NULL
